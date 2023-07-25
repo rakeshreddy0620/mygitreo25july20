@@ -1,0 +1,4 @@
+Class A{
+Public static void mani(){
+}
+}
